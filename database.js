@@ -26,7 +26,7 @@ conn.connect(function(err) {
 
         //                 if(err) console.log(`error executing the query - ${err} `)
 
-        //                 else console.log("Result: ", result)
+        //                 else console.log(result)
 
         //         })
         // }
